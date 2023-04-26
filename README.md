@@ -31,15 +31,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me  👩‍💻</h3>
 
 ###
 
-<p align="left">Innovative Android Developer with a talent for creating customized mobile solutions that meet client requirements.<br>I specialize in Kotlin and Java and am passionate about developing cutting-edge mobile applications with user-centric design. <br>I am eager to collaborate with talented professionals to deliver successful projects that achieve client objectives.</p>
+<p align="center">Innovative Android Developer with a talent for creating customized mobile solutions that meet client requirements.<br>I specialize in Kotlin and Java and am passionate about developing cutting-edge mobile applications with user-centric design. <br>I am eager to collaborate with talented professionals to deliver successful projects that achieve client objectives.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools 🛠</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats 🔥</h3>
 
 ###
 
@@ -67,8 +67,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SLAYERVIX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SLAYERVIX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SLAYERVIX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SLAYERVIX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=SLAYERVIX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
