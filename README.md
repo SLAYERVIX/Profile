@@ -56,9 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
 </div>
 
+<hr>
+
 ###
 
-<h3 align="center">🔥   My Stats 🔥</h3>
+<h3 align="center">🔥 My Stats 🔥</h3>
 
 ###
 
@@ -74,6 +76,7 @@
   <img src="https://streak-stats.demolab.com?user=SLAYERVIX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<hr>
 ###
 
 <div align="center">
