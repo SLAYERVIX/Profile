@@ -11,7 +11,7 @@
 - Business email : ahmed.khattab@unilever.com
 - Personal email : akhattab.iv@gmail.com
 
-<p> <a href="https://www.linkedin.com/in/khattab-dev" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p> <a href="https://www.linkedin.com/in/khattab-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <hr>
 
@@ -23,7 +23,13 @@ The e-commerce app was designed to serve two distinct user groups: general users
 For resellers, the app provided tools to manage product listings, track orders, and communicate directly with customers through real-time chat. It also featured powerful product search and filtering functions, allowing users to find exactly what they need with ease. With performance optimization at its core, the app was built to handle large inventories and high user traffic while ensuring a smooth, seamless experience for all parties involved.
 
 <p>
- <a href="https://play.google.com/store/apps/details?id=com.uae.coupons" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/sahseh-%D8%B5%D8%AD%D8%B5%D8%AD/id1461034917" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.cezmastore.app&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/sahseh-%D8%B5%D8%AD%D8%B5%D8%AD/id1461034917" target="_blank"><img alt="App Store" src="https://apps.apple.com/eg/app/cezma/id6460079151?l=ar" /></a><p>
 
+### EF - Cookware
+EF Cookware is an innovative solution aimed at streamlining the delivery process through two dedicated mobile apps—one for clients and one for delivery representatives. The project reimagines delivery experiences by ensuring seamless communication between both parties.
+
+The delivery representative app allows users to efficiently receive orders, generate tracking IDs, and manage their deliveries. It also includes dual navigation paths: one for the representatives and another for the admin, enabling comprehensive order tracking and management.
+
+On the client side, the app provides real-time updates and tracking capabilities, allowing customers to monitor their deliveries effortlessly. The entire system is supported by an intuitive admin dashboard, where administrators can manage orders, assign delivery representatives, and ensure smooth operations from start to finish.
 <hr>
  
