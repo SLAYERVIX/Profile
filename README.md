@@ -31,6 +31,9 @@ For resellers, the app provided tools to manage product listings, track orders, 
 EF Cookware is an innovative solution aimed at streamlining the delivery process through two dedicated mobile apps—one for clients and one for delivery representatives. The project reimagines delivery experiences by ensuring seamless communication between both parties.
 
 The delivery representative app allows users to efficiently receive orders, generate tracking IDs, and manage their deliveries. It also includes dual navigation paths: one for the representatives and another for the admin, enabling comprehensive order tracking and management.
+On the client side, the app provides real-time updates and tracking capabilities, allowing customers to monitor their deliveries effortlessly. The entire system is supported by an intuitive admin dashboard, where administrators can manage orders, assign delivery representatives, and ensure smooth operations from start to finish.
+
+<hr>
 
 ### Cinema Prime
 Cinema Prime is a premier streaming application designed specifically for Android TV, offering a seamless Lean back experience optimized for large-screen viewing. Tailored for an intuitive and immersive user interface, the app provides users with effortless navigation through content libraries, ensuring a cinematic experience from the comfort of their homes.
@@ -40,6 +43,5 @@ Cinema Prime is a premier streaming application designed specifically for Androi
 
 <hr>
 
-On the client side, the app provides real-time updates and tracking capabilities, allowing customers to monitor their deliveries effortlessly. The entire system is supported by an intuitive admin dashboard, where administrators can manage orders, assign delivery representatives, and ensure smooth operations from start to finish.
-<hr>
+
  
